@@ -25,7 +25,7 @@ To run the project, follow these steps:
 1. Clone the repository to your device.
 
 ```bash
-git clone https://github.com/dmrozik87/Mars-exploration.git
+git clone https://github.com/KamilSadlocha/MarsExploration.git
 ```
 
 ## Sample Use Cases
